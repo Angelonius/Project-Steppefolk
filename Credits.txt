@@ -1,0 +1,4 @@
+Credits:
+
+1. The horse: maksiu from the Wesnoth forums.
+2. Repairs to the code: knyghtmare from Github: https://github.com/knyghtmare, Pentarctagon from the Wesnoth Discord server and Soliton from the Wesnoth IRC.

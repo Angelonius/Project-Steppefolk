@@ -1,2 +1,4 @@
-# Project-Steppefolk
-This is the revival of HaChol's The Scythia add-on for the [Battle for Wesnoth](https://www.wesnoth.org), a turn-based strategy game. After 7 years, this add-on rises again!
+# Project-Ironriders
+This is my own add-on for The Battle For Wesnoth. I'm gonna port and modify an old faction that I made way back in 1.10 into Github. 
+
+Warning: Strong.
